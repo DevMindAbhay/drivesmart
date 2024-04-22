@@ -4,7 +4,7 @@
 
   Drivesmart is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https:devmindabhay.github.io/drivesmart/"><strong>➥ Live Demo</strong></a>
+  <a href="https://devmindabhay.github.io/drivesmart/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
